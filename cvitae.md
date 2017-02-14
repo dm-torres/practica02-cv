@@ -16,3 +16,35 @@ Estado civil: **Casado**
 <br/>
 ---
 
+<br/>
+###ESCOLARIDAD###
+
+Profesional  
+**Instituto Tecnológico de Mexicali**  
+Mexicali, B.C.  
+Actualmente cursando la carrera de **Ingenieria en Sistemas Computacionales** en el 8vo. semestre  
+Desde Agosto del 2012 a la fecha.  
+
+<br/>
+
+Bachillerato  
+**Colegio de Estudios Científicos y Tecnológicos del Estado de Baja Caliornia**  
+Mexicali, B.C.  
+Especialidad: **Técnico Programador de Software**  
+2009 - 2012  
+
+<br/>
+
+Secundaria  
+**Escuela Secundaria Estatal #88 "Lic. Milton Castellanos Everardo"**  
+Mexicali, B.C.  
+1989 - 1992  
+
+<br/>
+
+Primaria  
+**Escuela Primaria "General José P. Mancillas"**  
+1983 - 1989
+<br/>
+---
+
