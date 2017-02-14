@@ -27,7 +27,7 @@ Incorporarme al área de sistemas de una empresa para ampliar mis conocimientos 
 <br/>
 ###ESCOLARIDAD###
 
-~Profesional~
+<u>Profesional</u>  
 **Instituto Tecnológico de Mexicali**  
 Mexicali, B.C.  
 Actualmente cursando la carrera de **Ingenieria en Sistemas Computacionales** en el 8vo. semestre  
@@ -35,7 +35,7 @@ Desde Agosto del 2012 a la fecha.
 
 <br/>
 
-~Bachillerato~  
+<u>Bachillerato</u>  
 **Colegio de Estudios Científicos y Tecnológicos del Estado de Baja Caliornia**  
 Mexicali, B.C.  
 Especialidad: **Técnico Programador de Software**  
@@ -43,14 +43,14 @@ Especialidad: **Técnico Programador de Software**
 
 <br/>
 
-~Secundaria~  
+<u>Secundaria</u>  
 **Escuela Secundaria Estatal #88 "Lic. Milton Castellanos Everardo"**  
 Mexicali, B.C.  
 1989 - 1992  
 
 <br/>
 
-~Primaria~  
+<u>Primaria</u>  
 **Escuela Primaria "General José P. Mancillas"**  
 1983 - 1989
 <br/>
@@ -63,7 +63,7 @@ Mexicali, B.C.
 Lote 48, Col. Cerro Prieto 4, Mexicali, B.C.  
 Tel. 686-561-6864  
 Puesto: **Jefe de Sistemas**  
-Jefe Inmediato: ~C.P. José Mendoza~  
+Jefe Inmediato: <u>C.P. José Mendoza</u>  
 Duración: del 17-Jul-2006 a la fecha.  
 Actividades:  
 * Administrar el sistema de ganado  
@@ -72,12 +72,12 @@ Actividades:
 
 
 <br/>
-
+~<u><u><u>
 **Industrializadora de Productos Forestales G y T, S.A. de C.V.**  
 Ejido Puebla S/N, Mexicali, B.C.  
 Tel. 686-585-2360  
 Puesto: **Auxiliar Administrativo**  
-Jefe Inmediato: ~Sr. Cruz Sandoval~  
+Jefe Inmediato: <u>Sr. Cruz Sandoval</u>  
 Duración: del 3-Mar-2005 al 5-Abr-2006.  
 Actividades:  
 * Capturista de datos  
@@ -92,7 +92,7 @@ Carretera a San Luis Rio Colorado, KM 7.5 S/N
 Mexicali, B.C.  
 Tel.686-580-2800  
 Puesto: **Facturista**  
-Jefe Inmediato: ~Ing. Manuel López~  
+Jefe Inmediato: <u>Ing. Manuel López</u>  
 Duración: del 10-Dic-2001 al 13-Ene-2005.  
 Actividades:  
 * Capturista de datos  
@@ -107,7 +107,7 @@ Parque Industrial Nelson,
 Mexicali, B.C.  
 Tel. 686-580-0414  
 Puesto: **Capturista de Datos**  
-Jefe Inmediato: ~Sr. Santos Soriano~  
+Jefe Inmediato: <u>Sr. Santos Soriano</u>  
 Duración: del 18-May-1998 al 5-Oct-2001.  
 Actividades:  
 * Capturista de datos  
