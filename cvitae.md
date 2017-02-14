@@ -48,3 +48,58 @@ Primaria
 <br/>
 ---
 
+<br/>
+###EXPERIENCIA PROFESIONAL###
+
+**Ganadera J Cinco de Mexicali, S.A. de C.V.**  
+Lote 48, Col. Cerro Prieto 4, Mexicali, B.C.  
+Tel. 686-561-6864  
+Puesto: **Jefe de Sistemas**  
+Jefe Inmediato: C.P. José Mendoza  
+Duración: del 17-Jul-2006 a la fecha.  
+Actividades:  
+* Administrar el sistema de ganado  
+* Mantenimiento a equipos de cómputo  
+* Coordinar personal de auxiliares a cargo
+
+
+<br/>
+
+**Industrializadora de Productos Forestales G y T, S.A. de C.V.**  
+Ejido Puebla S/N, Mexicali, B.C.  
+Tel. 686-585-2360  
+Puesto: **Auxiliar Administrativo**  
+Jefe Inmediato: Sr. Cruz Sandoval  
+Duración: del 3-Mar-2005 al 5-Abr-2006.  
+Actividades:  
+* Capturista de datos  
+* Control de inventarios  
+* Auxiliar en actividades de contabilidad
+
+
+<br/>
+
+**Kino Gas del Noroeste, S.A. de C.V.**  
+Carretera a San Luis Rio Colorado, KM 7.5 S/N  
+Mexicali, B.C.  
+Tel.686-580-2800  
+Puesto: **Facturista**  
+Jefe Inmediato: Ing. Manuel López  
+Duración: del 10-Dic-2001 al 13-Ene-2005.  
+Actividades:  
+* Capturista de datos  
+* Facturación  
+* Apoyo en nóminas
+
+
+<br/>
+
+**Suntek Manufacturing Technologies, S.A. de C.V.**  
+Parque Industrial Nelson,  
+Mexicali, B.C.  
+Tel. 686-580-0414  
+Puesto: **Capturista de Datos**  
+Jefe Inmediato: Sr. Santos Soriano  
+Duración: del 18-May-1998 al 5-Oct-2001.  
+Actividades:  
+* Capturista de datos  
