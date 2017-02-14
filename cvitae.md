@@ -72,7 +72,6 @@ Actividades:
 
 
 <br/>
-~<u><u><u>
 **Industrializadora de Productos Forestales G y T, S.A. de C.V.**  
 Ejido Puebla S/N, Mexicali, B.C.  
 Tel. 686-585-2360  
