@@ -17,6 +17,12 @@ Estado civil: **Casado**
 ---
 
 <br/>
+###OBJETIVO###
+Incorporarme al área de sistemas de una empresa para ampliar mis conocimientos adquiridos en mi formación profesional y laboral. Contribuir de manera positiva con el área administrativa para mejorar los procesos dentro de la compañía.
+<br/>
+---
+
+<br/>
 ###ESCOLARIDAD###
 
 Profesional  
